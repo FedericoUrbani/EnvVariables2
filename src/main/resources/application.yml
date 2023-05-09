@@ -1,0 +1,9 @@
+environment: prod
+server:
+  port: 5000
+
+---
+environment: test
+server:
+  port: 4000
+
